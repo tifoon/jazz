@@ -1,6 +1,6 @@
 
 # Problem
-![JaaS - Logo](https://avatars3.githubusercontent.com/u/14323142?v=3&s=200)
+![JaaS - Logo](http://4.bp.blogspot.com/-n7zq2ekr68s/VfomtuIUSwI/AAAAAAAARmY/gKcTJ1qN-yA/s1600/jaas%2B-%2Bconcept.png)
 
 
 Jenkins is used to build software in enterprise firms. Providing a 100% available, elastic and resource efficient Jenkins cluster is a challenge. Hence JaaS = Jenkins as a Service.
