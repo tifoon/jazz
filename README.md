@@ -30,3 +30,10 @@ MAZ on Kubernetes will provide MAZ Resilience.
 ## Efficient - How?
 
 If a Jenkins instance isn't building anything, it would be hibernated and the resources allocated to that instance would be re-purposed to spin off another.
+
+
+#NOTES
+
+British Gov seems to have blogged about cloud-tech. [Blog & Comment](https://gdstechnology.blog.gov.uk/2015/10/27/looking-at-open-source-paas-technologies/#comment-52911) 
+
+https://github.com/eBayClassifiedsGroup/PanteraS sounds interesting
