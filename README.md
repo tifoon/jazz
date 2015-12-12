@@ -1,12 +1,19 @@
 
 # Problem
 
-Jenkins is used to build software in enterprise firms. Providing a 100% available, elastic and resource efficient Jenkins cluster is a challenge. Hence JaaS = Jenkins as a Service.
+Providing a 100% available, elastic and resource efficient Jenkins cluster is a challenge. Hence JaaS = Jenkins as a Service.
 
 #Goal
+
 JaaS when complete would be an API first installable with containers as first class citizens.
 
 ![JaaS - Logo](https://raw.githubusercontent.com/ciapi/jaas/master/docs/design/JaaS-High-Level-Design.png)
+
+#Tutorial
+
+<a href="http://www.youtube.com/watch?feature=player_embedded&v=OVHMULHB7CE
+" target="_blank"><img src="http://img.youtube.com/vi/OVHMULHB7CE/0.jpg" 
+alt="Basic Intro to Jenkins and Backups" width="240" height="180" border="10" /></a>
 
 #Motivation
 
