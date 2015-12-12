@@ -20,12 +20,12 @@ This project would be an open source API first resilent-cloud experience for ent
 3. Efficient
 
 > *How* ?
-MAZ (Mesos+Aurora+Zookeeper) would provide Jenkins Resilience
-MAZ on Kubernetes will provide MAZ Resilience.
+MAZ (Mesos+Aurora+Zookeeper) would provide Resilience
 
 #Use Cases
 
-* Resilient Jenkins
+* Jenkins Resilience
+
 <a href="http://www.youtube.com/watch?feature=player_embedded&v=OVHMULHB7CE
 " target="_blank"><img src="http://img.youtube.com/vi/OVHMULHB7CE/0.jpg" 
 alt="Basic Intro to Jenkins and Backups" width="80%" height="80%" border="10" /></a>
