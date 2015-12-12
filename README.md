@@ -13,7 +13,7 @@ JaaS when complete would be an API first installable with containers as first cl
 
 <a href="http://www.youtube.com/watch?feature=player_embedded&v=OVHMULHB7CE
 " target="_blank"><img src="http://img.youtube.com/vi/OVHMULHB7CE/0.jpg" 
-alt="Basic Intro to Jenkins and Backups" width="240" height="180" border="10" /></a>
+alt="Basic Intro to Jenkins and Backups" width="80%" height="80%" border="10" /></a>
 
 #Motivation
 
