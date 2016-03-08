@@ -1,7 +1,7 @@
 
-# Problem
+# Why
 
-Resilient & Resource-efficient infra is a necessity for businesses and organizations.
+Resilient & Resource-efficient infra is a necessity for businesses and organizations. However having a FOSS solution to do the same is non-trivial.
 
 Apache Mesos & Apache Aurora are FOSS which could help provide Resilient & Resource-efficient cluster-managed infra-structure.
 
